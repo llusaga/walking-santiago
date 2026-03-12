@@ -1,5 +1,1 @@
-# Walking Santiago
-
-This is a project about walking in Santiago.
-
-Test
+[Original content of README.md at the time of the update] test
